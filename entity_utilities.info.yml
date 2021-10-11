@@ -1,5 +1,5 @@
 name: 'Entity utilities'
 description: 'A collection of decoupled Drupal core implementations for advanced development.'
 type: module
-core: 8.x
-version: 8.x-1.0
+version: 1.0
+core_version_requirement: ^8.8 || ^9
